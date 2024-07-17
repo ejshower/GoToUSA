@@ -1,0 +1,7 @@
+1.Git 경로
+- https://github.com/ejshower/GoToUSA.git
+
+2.사용방법
+- 매일 소스가 무엇이던간에 영어공부한 정보를 공유한다.
+
+3.브랜치는 main 하나에서 같이 공유하기로 한다.
